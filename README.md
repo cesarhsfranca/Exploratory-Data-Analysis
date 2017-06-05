@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis
 Repository for the Coursera's course "Exploratory Data Analysis - Course Project 1".
-As part of the project eight files are provided as below indicated:
+As part of the project the below indicated files were created and generated respectivelly:
 
 The README.md (this one);
 plot1.R - Code to generate the plot1;
